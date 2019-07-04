@@ -1,3 +1,3 @@
 # test1
-test Tutorial
+test Tutorial.
 This is another go at the gitHub tutorial.
