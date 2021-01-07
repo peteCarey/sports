@@ -1,0 +1,12 @@
+<div>
+  <h3>Products</h3>
+  <div class="row">
+    <div class="col-sm-4" *ngFor="let sport of sports | async">
+      <div class="card">
+        <div class="card-body">
+          <a href="#" class="btn btn-primary">{{ sport.name }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
